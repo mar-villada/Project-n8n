@@ -1,59 +1,58 @@
-
-MIT License
+Licencia MIT
 
 Copyright (c) 2025 Marlon Villada - Universidad Tecnológica de Pereira
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Por la presente se concede permiso, libre de cargos, a cualquier persona que obtenga 
+una copia de este software y de los archivos de documentación asociados (el "Software"), 
+a utilizar el Software sin restricción, incluyendo sin limitación los derechos a usar, 
+copiar, modificar, fusionar, publicar, distribuir, sublicenciar, y/o vender copias del 
+Software, y a permitir a las personas a las que se les proporcione el Software a hacer 
+lo mismo, sujeto a las siguientes condiciones:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias 
+o partes sustanciales del Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
----
-
-ADDITIONAL TERMS FOR ACADEMIC USE:
-
-This software was developed as part of an academic project for the Programming III 
-course at Universidad Tecnológica de Pereira. When using this software for 
-academic purposes, please include appropriate citation:
-
-Villada, M. (2025). Sistema RAG con n8n y Ollama - Retrieval-Augmented Generation 
-System with Local AI Models. Universidad Tecnológica de Pereira, Programming III Course.
+EL SOFTWARE SE PROPORCIONA "COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, 
+INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO 
+PARTICULAR E INCUMPLIMIENTO. EN NINGÚN CASO LOS AUTORES O PROPIETARIOS DE LOS DERECHOS 
+DE AUTOR SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS U OTRAS RESPONSABILIDADES, YA 
+SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRO MOTIVO, DERIVADAS DE, FUERA DE 
+O EN CONEXIÓN CON EL SOFTWARE O SU USO U OTRO TIPO DE ACCIONES EN EL SOFTWARE.
 
 ---
 
-THIRD-PARTY LICENSES:
+TÉRMINOS ADICIONALES PARA USO ACADÉMICO:
 
-This project incorporates several third-party technologies, each with their own licenses:
+Este software fue desarrollado como parte de un proyecto académico para el curso de 
+Programación III en la Universidad Tecnológica de Pereira. Al utilizar este software 
+para propósitos académicos, por favor incluya la cita apropiada:
 
-- n8n: Sustainable Use License (https://github.com/n8n-io/n8n/blob/master/LICENSE.md)
-- Ollama: MIT License (https://github.com/ollama/ollama/blob/main/LICENSE)
-- Qdrant: Apache License 2.0 (https://github.com/qdrant/qdrant/blob/master/LICENSE)
-- Docker: Apache License 2.0 (https://github.com/docker/docker-ce/blob/master/LICENSE)
-- Llama 3.2: Custom License by Meta (https://llama.meta.com/llama3_2/license/)
-
-Users are responsible for ensuring compliance with all applicable third-party licenses 
-when using this software.
+Villada, M. (2025). Sistema RAG con n8n y Ollama - Sistema de Generación Aumentada por 
+Recuperación con Modelos de IA Locales. Universidad Tecnológica de Pereira, Curso de 
+Programación III.
 
 ---
 
-DISCLAIMER:
+LICENCIAS DE TERCEROS:
 
-This software is provided for educational and research purposes. The author and 
-Universidad Tecnológica de Pereira assume no responsibility for any damages or 
-issues arising from the use of this software in production environments.
+Este proyecto incorpora varias tecnologías de terceros, cada una con sus propias licencias:
 
-For commercial use, please ensure compliance with all third-party licenses, 
-particularly the Llama 3.2 license terms.
+- n8n: Licencia de Uso Sostenible (https://github.com/n8n-io/n8n/blob/master/LICENSE.md)
+- Ollama: Licencia MIT (https://github.com/ollama/ollama/blob/main/LICENSE)
+- Qdrant: Licencia Apache 2.0 (https://github.com/qdrant/qdrant/blob/master/LICENSE)
+- Docker: Licencia Apache 2.0 (https://github.com/docker/docker-ce/blob/master/LICENSE)
+- Llama 3.2: Licencia Personalizada de Meta (https://llama.meta.com/llama3_2/license/)
+
+Los usuarios son responsables de asegurar el cumplimiento de todas las licencias de 
+terceros aplicables al utilizar este software.
+
+---
+
+DESCARGO DE RESPONSABILIDAD:
+
+Este software se proporciona con fines educativos y de investigación. El autor y la 
+Universidad Tecnológica de Pereira no asumen responsabilidad por daños o problemas que 
+surjan del uso de este software en entornos de producción.
+
+Para uso comercial, por favor asegúrese de cumplir con todas las licencias de terceros, 
+particularmente los términos de la licencia de Llama 3.2.
